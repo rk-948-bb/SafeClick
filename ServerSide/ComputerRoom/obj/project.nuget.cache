@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGfxGFIU2u4=",
+  "dgSpecHash": "am6UnjYS4as=",
   "success": true,
-  "projectFilePath": "C:\\final-project\\ServerSide\\ComputerRoom\\ComputerRoom.csproj",
+  "projectFilePath": "C:\\safe-click\\ServerSide\\ComputerRoom\\ComputerRoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

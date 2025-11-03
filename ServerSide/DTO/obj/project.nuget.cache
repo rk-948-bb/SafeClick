@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zeolwLtcg7s=",
+  "dgSpecHash": "aTylnvkQ2+U=",
   "success": true,
-  "projectFilePath": "C:\\final-project\\ServerSide\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\safe-click\\ServerSide\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

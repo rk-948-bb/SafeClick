@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "egwPbfp+iRE=",
+  "dgSpecHash": "HyW0//HoYVU=",
   "success": true,
-  "projectFilePath": "C:\\final-project\\ServerSide\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\safe-click\\ServerSide\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

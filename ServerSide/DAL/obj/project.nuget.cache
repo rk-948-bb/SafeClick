@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oHdIg8JImY4=",
+  "dgSpecHash": "fNmKv1Sz2/A=",
   "success": true,
-  "projectFilePath": "C:\\final-project\\ServerSide\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\safe-click\\ServerSide\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
