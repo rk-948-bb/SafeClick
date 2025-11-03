@@ -1,6 +1,14 @@
-# Safe Click - Computer Room Management System
+<div align="center">
+  <img src="ClientSide/src/images/LOGO1.png" alt="Safe Click Logo" width="250"/>
+  
+  # Safe Click - Computer Room Management System
+  
+  **Computer Room Management System - Full Stack Project (React + C# + SQL)**
+  
+  מערכת ניהול חדר מחשבים עם ממשק לקוח-שרת מלא.
+</div>
 
-מערכת ניהול חדר מחשבים עם ממשק לקוח-שרת מלא.
+---
 
 ## 📋 תיאור הפרויקט
 
