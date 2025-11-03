@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/logo.png" alt="Safe Click Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/rk-948-bb/SafeClick/main/.github/logo.png" alt="Safe Click Logo" width="250"/>
   
   # Safe Click - Computer Room Management System
   
