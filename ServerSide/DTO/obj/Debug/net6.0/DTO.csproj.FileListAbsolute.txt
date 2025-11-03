@@ -1,0 +1,36 @@
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\bin\Debug\net6.0\DTO.deps.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\refint\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DTO\obj\Debug\net6.0\ref\DTO.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\bin\Debug\net6.0\DTO.deps.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\bin\Debug\net6.0\DTO.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\bin\Debug\net6.0\DTO.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\DTO.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\refint\DTO.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\DTO.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\bin\Debug\net6.0\DTO.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\bin\Debug\net6.0\DTO.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\DTO.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\DTO.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DTO\obj\Debug\net6.0\ref\DTO.dll

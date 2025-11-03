@@ -1,0 +1,98 @@
+# ==========================================
+# CLIENT SIDE (React + Vite)
+# ==========================================
+ClientSide/node_modules/
+ClientSide/dist/
+ClientSide/build/
+ClientSide/.env
+ClientSide/.env.local
+ClientSide/.env.production
+ClientSide/.vite/
+
+# Logs
+ClientSide/*.log
+ClientSide/npm-debug.log*
+ClientSide/yarn-debug.log*
+ClientSide/yarn-error.log*
+ClientSide/pnpm-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==========================================
+# SERVER SIDE (C# .NET)
+# ==========================================
+ServerSide/bin/
+ServerSide/obj/
+ServerSide/**/*.user
+ServerSide/**/*.suo
+ServerSide/.vs/
+
+# Build results
+ServerSide/**/[Dd]ebug/
+ServerSide/**/[Rr]elease/
+ServerSide/**/x64/
+ServerSide/**/x86/
+ServerSide/**/[Aa][Rr][Mm]/
+ServerSide/**/[Aa][Rr][Mm]64/
+ServerSide/**/bld/
+ServerSide/**/[Bb]in/
+ServerSide/**/[Oo]bj/
+
+# Visual Studio files
+ServerSide/.vs/
+*.rsuser
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+ServerSide/**/packages/
+*.nupkg
+*.snupkg
+
+# Environment variables
+ServerSide/**/.env
+ServerSide/**/appsettings.Development.json
+ServerSide/**/appsettings.Local.json
+
+# ==========================================
+# DATABASE
+# ==========================================
+# אם יש קובץ הגדרות עם סיסמאות
+Database/connection.config
+Database/*.bak
+
+# ==========================================
+# GENERAL
+# ==========================================
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Sensitive data
+*.pfx
+*.p12
+*.key
+*.pem
+secrets/
+.env

@@ -1,0 +1,225 @@
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\appsettings.Development.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\appsettings.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\ComputerRoom.exe
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\ComputerRoom.deps.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\ComputerRoom.runtimeconfig.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\ComputerRoom.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\ComputerRoom.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\AutoMapper.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Castle.Core.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.MvcApplicationPartsAssemblyInfo.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\staticwebassets.build.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\staticwebassets.development.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\scopedcss\bundle\ComputerRoom.styles.css
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\refint\ComputerRoom.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ComputerRoom.genruntimeconfig.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\ComputerRoom\obj\Debug\net6.0\ref\ComputerRoom.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\appsettings.Development.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\appsettings.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.exe
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.deps.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.runtimeconfig.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\AutoMapper.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Castle.Core.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Humanizer.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Drawing.Common.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Runtime.Caching.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Security.Permissions.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Windows.Extensions.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\BLL.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\DAL.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\DTO.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\BLL.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\DAL.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\bin\Debug\net6.0\DTO.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.AssemblyReference.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.GeneratedMSBuildEditorConfig.editorconfig
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.AssemblyInfoInputs.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.AssemblyInfo.cs
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.CoreCompileInputs.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.MvcApplicationPartsAssemblyInfo.cs
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.MvcApplicationPartsAssemblyInfo.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\staticwebassets.build.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\staticwebassets.development.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\scopedcss\bundle\ComputerRoom.styles.css
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.CopyComplete
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\refint\ComputerRoom.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.genruntimeconfig.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\ComputerRoom\obj\Debug\net6.0\ref\ComputerRoom.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\appsettings.Development.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\appsettings.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.staticwebassets.endpoints.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.exe
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.deps.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.runtimeconfig.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\ComputerRoom.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\AutoMapper.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Castle.Core.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Humanizer.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\BLL.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\DAL.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\DTO.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\BLL.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\DAL.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\DTO.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.AssemblyReference.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.AssemblyInfoInputs.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.AssemblyInfo.cs
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.csproj.CoreCompileInputs.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.MvcApplicationPartsAssemblyInfo.cs
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.MvcApplicationPartsAssemblyInfo.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\scopedcss\bundle\ComputerRoom.styles.css
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\staticwebassets.build.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\staticwebassets.development.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\Computer.9BAEA9D9.Up2Date
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\refint\ComputerRoom.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ComputerRoom.genruntimeconfig.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\obj\Debug\net6.0\ref\ComputerRoom.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\ComputerRoom\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

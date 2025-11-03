@@ -1,0 +1,42 @@
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+H:\תכנות ו תשפה\קבוצה ו-2\ריקי קירשטיין\project\ComputerRoom\ComputerRoom\DAL\obj\Debug\net6.0\ref\DAL.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\bin\Debug\net6.0\DAL.deps.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\bin\Debug\net6.0\DAL.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\bin\Debug\net6.0\DAL.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\refint\DAL.dll
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.pdb
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+T:\תכנות ו תשפה\קבוצה ו2\riki kirshtein\Final Project\ServerSide\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\bin\Debug\net6.0\DAL.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\bin\Debug\net6.0\DAL.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.pdb
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\ריקי קירשטיין\שנה ב\final-project\ServerSide\DAL\obj\Debug\net6.0\ref\DAL.dll
