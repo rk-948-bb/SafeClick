@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ClientSide/src/images/LOGO1.png" alt="Safe Click Logo" width="250"/>
+  <img src=".github/logo.png" alt="Safe Click Logo" width="250"/>
   
   # Safe Click - Computer Room Management System
   
